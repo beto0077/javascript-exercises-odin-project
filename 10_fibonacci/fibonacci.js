@@ -20,5 +20,4 @@ const fibonacci = function(num) {
     return num2;
 };
 
-// Do not edit below this line
 module.exports = fibonacci;

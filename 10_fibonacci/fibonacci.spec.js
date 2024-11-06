@@ -35,3 +35,5 @@ describe('fibonacci', () => {
     expect(fibonacci("8")).toBe(21);
   });
 });
+
+//The solution to the code was carried out using the unusual logic of starting the Fibonacci sequence with 1 as the first number, the usual way that can be found on the internet starts with 0.
